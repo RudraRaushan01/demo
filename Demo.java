@@ -6,4 +6,7 @@ public class Demo{
     void show(){
         System.out.println("Demo class method");
     }
+    void display(){
+        System.out.println("Display method in Demo class");
+    }
 }
